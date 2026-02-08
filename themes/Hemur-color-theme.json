@@ -1,11 +1,11 @@
 {
 	"name": "Hemur",
 	"colors": {
-		"editor.background": "#19323f",
-		"editor.foreground": "#1e4646",
-		"activityBarBadge.background": "#007acc",
-		"sideBar.background": "#132731",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#280d69",
+		"editor.foreground": "#5e3ab3",
+		"activityBarBadge.background": "#4e24af",
+		"sideBar.background": "#200b52",
+		"sideBarTitle.foreground": "#c454f0"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#36128b"
 			}
 		},
 		{
