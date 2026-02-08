@@ -1,9 +1,10 @@
 {
 	"name": "Hemur",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
+		"editor.background": "#19323f",
+		"editor.foreground": "#1e4646",
 		"activityBarBadge.background": "#007acc",
+		"sideBar.background": "#132731",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
