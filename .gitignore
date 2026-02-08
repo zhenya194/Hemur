@@ -1,0 +1,13 @@
+node_modules
+
+.vsix
+
+.vscode/
+
+*.log
+npm-debug.log*
+yarn-errors.log*
+.eslintcache
+
+.DS_Store
+Thumbs.db
